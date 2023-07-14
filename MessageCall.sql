@@ -1,1 +1,2 @@
 --Captão América: 27.42.31
+--Viúva Negra: 75.78.74
